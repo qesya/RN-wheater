@@ -38,8 +38,10 @@ https://www.weatherapi.com/docs/
 
 ### env configuration
 ```
+.env.development
 WEATHER_ENDPOINT=https://api.weatherapi.com/v1
-WEATHER_APIKEY=XXXXX
+WEATHER_APIKEY=e083dac63e5a44c9b9a74155231407
+
 ```
 
 
