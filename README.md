@@ -42,6 +42,17 @@ https://www.weatherapi.com/docs/
 WEATHER_ENDPOINT=https://api.weatherapi.com/v1
 WEATHER_APIKEY=e083dac63e5a44c9b9a74155231407
 
+
+https://github.com/qesya/RN-wheater/assets/8376065/e62c1d17-7675-408f-9268-a01caf1d786f
+
+
+
+https://github.com/qesya/RN-wheater/assets/8376065/210f11f8-82da-42e8-ac8f-36ed32fa0007
+
+
+
+
+
 ```
 
 
